@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "GD32_SPINE")(type "KiCad")(uri "${KIPRJMOD}/GD32_SPINE.kicad_sym")(options "")(descr ""))
+)
